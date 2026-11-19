@@ -1,0 +1,3 @@
+$ErrorActionPreference = 'Stop'
+
+# This file is yet empty for a while...
