@@ -52,6 +52,3 @@ function Start-GitFlow {
     git checkout $Base -b $Name &&
         git push -u origin $Name
 }
-
-Set-Alias clgi Clear-GitIgnoredFiles
-Set-Alias sagf Start-GitFlow
